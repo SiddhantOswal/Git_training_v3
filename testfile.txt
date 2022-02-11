@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello!!!!
 Welcome
+=======
+Hello!!!!!
+>>>>>>> 1e4a400657e6c13d535c46bfed08b725bcddfab9
 This is a test file.
